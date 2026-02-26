@@ -11,7 +11,6 @@ Ce dépôt contient mon rapport de stage de Master Intelligence des Données de 
 
 ## Contenu du dépôt
 - `rapport_stage_william_palombier.pdf` : rapport complet
-- `figures/` : illustrations éventuelles
 
 ## Résumé
 Ce travail porte sur la segmentation manuelle du Cavum Vergae sur IRM, la quantification volumétrique, l’analyse descriptive des résultats et les perspectives d’automatisation par IA.
